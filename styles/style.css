@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #e4e4e4;
+}
+
+#popup-modal {
+  display: none;
+}
+
+#popup-modal.show {
+  display: flex;
+}
