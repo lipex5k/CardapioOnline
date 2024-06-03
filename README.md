@@ -16,11 +16,11 @@ Este é um projeto de uma aplicação web desenvolvida para um restaurante, perm
 1. Clone o repositório:
     <div>
         <pre>
-            <code id="clone-command">git clone https://github.com/lipex5k/cardapio-online.git</code>
+            <code id="clone-command">git clone https://github.com/lipex5k/CardapioOnline.git</code>
         </pre>
         <button onclick="copyToClipboard('#clone-command')">Copiar código</button>
     </div>
-
+    
 2. Navegue até o diretório do projeto:
     <div>
         <pre>
