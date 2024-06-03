@@ -12,6 +12,11 @@ Este é um projeto de uma aplicação web desenvolvida para um restaurante, perm
 * Navegação simples e intuitiva.
 * Integração com o WhatsApp para facilitar pedidos e reservas.
 
+## Exemplo Responsividade
+
+![responsiveexemplo](https://github.com/lipex5k/CardapioOnline/assets/113557336/0a95c940-6484-407d-8375-586ca6d1d89d)
+
+
 ## Como Utilizar
 1. Clone o repositório:
     <div>
